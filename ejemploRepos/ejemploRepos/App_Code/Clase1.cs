@@ -8,10 +8,5 @@ using System.Web;
 /// </summary>
 public class Clase1
 {
-    public Clase1()
-    {
-        //
-        // TODO: Agregar aquí la lógica del constructor
-        //
-    }
+    private string nombre;
 }
