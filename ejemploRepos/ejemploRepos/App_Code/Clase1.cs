@@ -9,4 +9,5 @@ using System.Web;
 public class Clase1
 {
     private string nombre;
+    private int var;
 }
